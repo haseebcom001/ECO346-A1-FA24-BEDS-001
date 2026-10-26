@@ -1,0 +1,2 @@
+n_earners,weighted_median,unweighted_median,weighted_p10,weighted_p90,p90_p10_ratio,excluded_below_10k,excluded_above_10m,excluded_total
+3768,240000,240000,96000,660000,6.88,20,5,25
