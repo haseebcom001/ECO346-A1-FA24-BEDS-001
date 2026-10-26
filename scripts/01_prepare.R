@@ -1,7 +1,7 @@
 # 01_prepare.R
 # Builds the variant-1 sample (Punjab urban earners aged 15-64), computes the
 # Question 2 numbers and the Question 3 band table. Run from the project root
-# (open ECO346-A1-FA24-BED-001.Rproj in RStudio first).
+# (open ECO346-A1-FA24-BEDS-001.Rproj in RStudio first).
 
 library(readr)
 library(dplyr)

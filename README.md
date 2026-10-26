@@ -1,4 +1,4 @@
-# ECO346 Assignment 1 — FA24-BED-001
+# ECO346 Assignment 1 — FA24-BEDS-001
 
 **Variant 1: Punjab, urban** (registration number ends in 01; 1 ÷ 8 leaves remainder 1).
 Data: PSLM 2019–20 person file, joined to the household file by `hhid` for `hhweight`, `prov_code` and `urban_rural`.
@@ -6,7 +6,7 @@ Sample: persons aged 15–64 with annual earnings above zero (earners). All stat
 
 ## How to reproduce
 
-Open `ECO346-A1-FA24-BED-001.Rproj` in RStudio (this sets the working directory to the project root), then run the scripts in order:
+Open `ECO346-A1-FA24-BEDS-001.Rproj` in RStudio (this sets the working directory to the project root), then run the scripts in order:
 
 | Script | Produces |
 |---|---|
